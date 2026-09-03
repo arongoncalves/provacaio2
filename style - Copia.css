@@ -1,0 +1,23 @@
+body {
+     background-color: rgb(222, 10, 10);
+  text-align: center;
+}
+p { 
+    color: rgb(226, 215, 215);
+    text-align: center;
+    text-decoration: blue; 
+}
+
+h1{
+    color: black;
+    text-align: center;
+
+}
+img{
+    width: 300px;
+    border-radius: 10px;
+}
+ 
+h2{
+    text-align: center;
+}
